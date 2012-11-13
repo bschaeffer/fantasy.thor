@@ -1,0 +1,3 @@
+# Ignore table output files
+*.txt
+*.csv
